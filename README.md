@@ -1,2 +1,2 @@
 # analysis_sort
-Analisis del algoritmo insertion sort y el tiempo que demora en leer distintos tipo de arreglos usando la libreria de gnuplot para generar una grafica 
+Analisis del algoritmo insertion sort y el tiempo que demora en leer distintos arreglos guardarlo en un archivo y usando la libreria de gnuplot se leera el archivo de salida para generar una grafica 
